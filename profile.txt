@@ -1,2 +1,3 @@
 Name: Prafull
 City: Kanpur
+Skills: Python, Django
